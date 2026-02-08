@@ -13,6 +13,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/covalenthq/goldrush-kit)](https://github.com/covalenthq/goldrush-kit/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/covalenthq/goldrush-kit)](https://github.com/covalenthq/goldrush-kit/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/covalenthq/goldrush-kit)](https://github.com/covalenthq/goldrush-kit/network/members)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fgoldrush-kit.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fgoldrush-kit?ref=badge_shield)
 
 </div>
 
@@ -208,3 +209,6 @@ Give a ⭐️ if this project helped you!
 ## License
 
 This project is [MIT](./LICENSE) licensed.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fgoldrush-kit.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fgoldrush-kit?ref=badge_large)
